@@ -29,10 +29,10 @@ The model is built using the **Auto MPG dataset**.
 
 ## Usage
 
-- `Project_WeLead_D01_.ipynb` – Runs D01 requirements  
+- `Project_WeLead_D01_.ipynb` – Data Exploration 
 - `Project_WeLead_D02_3.ipynb` – Runs D02 & D03 requirements  
-- `Project_WeLead_D03.ipynb` – Separated code for D03 topic  
-- `Project_WeLead_D02___.ipynb` – Additional separated code for submission  
+- `Project_WeLead_D03.ipynb` – Separated code for D03 topic - Machine Learning models
+- `Project_WeLead_D02___.ipynb` – Separated code for D02 topic - Preprocessing 
 
 ---
 
