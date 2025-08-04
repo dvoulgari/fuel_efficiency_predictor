@@ -28,7 +28,6 @@ The model is built using the **Auto MPG dataset**.
 ---
 
 ## Usage
-The folder **`FinalDeliverables`** contains:
 
 - `Project_WeLead_D01_.ipynb` – Runs D01 requirements  
 - `Project_WeLead_D02_3.ipynb` – Runs D02 & D03 requirements  
